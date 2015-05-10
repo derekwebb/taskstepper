@@ -1,0 +1,13 @@
+{
+  "nodes": {
+    "local": {
+      "mcp.local": {
+        "settings": [
+          "all",
+          "local",
+          "mcp.local"
+        ]
+      }
+    }
+  }
+}

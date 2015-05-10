@@ -4,11 +4,11 @@
       "project.loc": {
         "settings": [
           "all",
-          "server",
           "vagrant",
+          "project.loc",
+          "server",
           "type_full_dev",
-          "identity_vagrant",
-          "project.loc"
+          "identity_vagrant"
         ],
         "hostname": "project.loc",
         "id": "project.loc",
