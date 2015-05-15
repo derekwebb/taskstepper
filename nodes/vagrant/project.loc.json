@@ -20,7 +20,7 @@
           }
         },
         "facts": {
-          "corl_stage": "initialize"
+          "corl_stage": "maintain"
         }
       }
     }
