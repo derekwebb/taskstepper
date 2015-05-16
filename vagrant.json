@@ -161,6 +161,7 @@
             "--verbose",
             "--rsync-path='sudo rsync'",
             "--archive",
+            "--delete",
             "-z"
           ]
         }
