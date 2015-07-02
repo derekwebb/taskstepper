@@ -12,8 +12,8 @@
             "customize": {
               "modifyvm": ":id",
               "--cpuexecutioncap": "50",
-              "--cpus": "1",
-              "--memory": "1024",
+              "--cpus": "2",
+              "--memory": "2048",
               "--natdnshostresolver1": "on"
             },
             "override": {
@@ -153,7 +153,8 @@
           "local": "www/drupal/project.loc",
           "remote": "/var/www/drupal/project.loc",
           "rsync__exclude": [
-            "sites/default/settings.php"
+            "sites/default/settings.php",
+            "sites/default/files"
           ],
           "rsync__auto": true,
           "rsync__chown": true,
